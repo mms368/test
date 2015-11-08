@@ -1,0 +1,8 @@
+Meg Shigeta
+Info 2300
+February 3, 2015
+
+Project 1 Rationale
+
+	Today’s technology-saturated society has placed a great emphasis on websites themselves, as they become increasingly popular channels of communication.  My target audience is potential employers and students at Cornell.  For employers, I listed completed Cornell courses and my lifeguard certifications.  For students, I put more casual hobbies, such as swimming.  To satisfy both audiences, I chose a muted blue tone with contrasting, eye-catching white and orange accents.  This scheme is gender-neutral, so any viewer will feel welcome and encouraged to explore the site. Other intentional design choices include the horizontal nav bar at the top of the page for efficiency, and each page’s consistent layout.
+	I used PHP throughout my website.  The nav bar uses PHP because it is a repeating element.  I also used PHP, regex, and server side validation in the contact form.  For example, the user cannot input numbers into his name; conversely, the user cannot input letters into the phone number.  These aspects enhance the site by improving security and ensuring that repeated elements remain uniform.  I believe my WOW elements lie in my form, which includes an extensive use of PHP, as well as in my strong rationale.  I hope you enjoy my site!
